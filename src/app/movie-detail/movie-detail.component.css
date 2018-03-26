@@ -1,0 +1,27 @@
+.movie {
+  background: chocolate;
+  padding: 0.5em 1em 0.5em 1.5em;
+  margin: 1em;
+  max-width: 16em;
+}
+.selected {
+  background: darkgoldenrod;
+  color: yellowgreen;
+}
+.movie .movieListItem{
+  font-size: 0.875em;
+  font-family: Georgia, Serif;
+  background: #cce5ff;
+  padding: 0.3em;
+  margin: 0.2em;
+  text-align: left
+}
+.details{
+  background: yellowgreen;
+  color: white;
+  padding: 0.5em;
+  margin: 1em;
+  max-width: 16em;
+  text-align: left;
+  font-size: 0.875em;
+}
